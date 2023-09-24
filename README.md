@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajeev</h1>
 <h3 align="center">A MERN stack developer</h3>
 
-<img align="right" alt="developer animation"  width="400" src="https://media.tenor.com/Li7HobCHqa0AAAAi/trial.gif" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajxode&label=Profile%20views&color=0e75b6&style=flat" alt="rajxode" /> </p>
 
 - 💬 Ask me about **React, JavaScript, Node**
